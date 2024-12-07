@@ -1,4 +1,4 @@
-Use this script to ensure your system is updated correctly.
+Use this script to ensure your system is updated correctly. Run as 'root' by sudo
 
 #!/bin/bash
 rm -rf /var/lib/dpkg/lock-frontend
